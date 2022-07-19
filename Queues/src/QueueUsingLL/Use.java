@@ -1,7 +1,6 @@
 package QueueUsingLL;
 
 import queueUsingArrays.QueueEmptyException;
-import queueUsingArrays.QueueFullException;
 
 public class Use {
 
